@@ -1,2 +1,2 @@
 # Coding_Prac
-Contains code of my leetcode submission
+Contains code of the problem solved on different platform.
